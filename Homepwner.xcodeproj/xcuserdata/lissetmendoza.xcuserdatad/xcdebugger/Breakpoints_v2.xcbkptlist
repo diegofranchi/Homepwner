@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Homepwner/ItemsViewController.swift"
+            timestampString = "541189658.565513"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ItemsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Homepwner.ItemsViewController.__deallocating_deinit"
+                  moduleName = "Homepwner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lissetmendoza/Desktop/CPSC%20411/Homepwner/Homepwner/ItemsViewController.swift"
+                  timestampString = "540952681.356554"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Homepwner.ItemsViewController.__allocating_init(style: __C.UITableViewStyle) -&gt; Homepwner.ItemsViewController"
+                  moduleName = "Homepwner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lissetmendoza/Desktop/CPSC%20411/Homepwner/Homepwner/ItemsViewController.swift"
+                  timestampString = "540952681.3628989"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Homepwner.ItemsViewController.init(style: __C.UITableViewStyle) -&gt; Homepwner.ItemsViewController"
+                  moduleName = "Homepwner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lissetmendoza/Desktop/CPSC%20411/Homepwner/Homepwner/ItemsViewController.swift"
+                  timestampString = "540952681.366076"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Homepwner.ItemsViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Homepwner.ItemsViewController"
+                  moduleName = "Homepwner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lissetmendoza/Desktop/CPSC%20411/Homepwner/Homepwner/ItemsViewController.swift"
+                  timestampString = "540952681.368023"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Homepwner.ItemsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Homepwner.ItemsViewController"
+                  moduleName = "Homepwner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lissetmendoza/Desktop/CPSC%20411/Homepwner/Homepwner/ItemsViewController.swift"
+                  timestampString = "540952681.371135"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Homepwner.ItemsViewController.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Homepwner.ItemsViewController&gt;"
+                  moduleName = "Homepwner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lissetmendoza/Desktop/CPSC%20411/Homepwner/Homepwner/ItemsViewController.swift"
+                  timestampString = "540952681.374987"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Homepwner.ItemsViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Homepwner.ItemsViewController&gt;"
+                  moduleName = "Homepwner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lissetmendoza/Desktop/CPSC%20411/Homepwner/Homepwner/ItemsViewController.swift"
+                  timestampString = "540952681.378503"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Homepwner/ItemsViewController.swift"
+            timestampString = "541189658.567356"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "addNewItem(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
